@@ -1,0 +1,9 @@
+#total {
+    display: flex;
+    justify-content: center;
+}
+
+#gameField {
+    display: flex;
+    justify-content: center;
+}
